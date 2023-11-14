@@ -1,0 +1,13 @@
+NotANumber : "&6&lKeys &8&l➥&c Not a Number."
+InsufficientKeys : "&6&lKeys &8&l➥&c Unable to send."
+PlayerNotFound : "&6&lKeys &8&l➥&c Player does not exist!"
+GivenKey : "&6&lKeys &8&l➥&a Key Given."
+GotKey : "&6&lKeys &8&l➥&a Key Received by %sender%."
+NotAKey : "&6&lKeys &8&l➥&c Not a Valid Key!"
+NotAnArgument : "&6&lKeys &8&l➥&c /sharekeys <name> <key> <amount>"
+CannotSendToYourself : "&6&lKeys &8&l➥&c You cannot send Keys to Yourself!"
+#PLACEHOLDERS
+# %receiver% -> The player who receives the key .
+# %sender% -> The player who sended the keys.
+# %keys% -> the number of keys
+# %keysname% --> the name of key

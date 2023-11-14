@@ -1,0 +1,10 @@
+name: 'KeyTransfer'
+version: '${project.version}'
+main: in.epicaman.KeyTransfer
+#api-version: 1.19
+depend: [ ExcellentCrates, NexEngine ]
+authors: [ EpicAman ]
+commands:
+  transferkeys:
+    aliases: [sharekeys]
+    description: Give Keys to Other Players.
